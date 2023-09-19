@@ -50,7 +50,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 
-var ownernum = ['0','447405935355']
+var ownernum = ['0','254114035678']
 //-------------
 
 
@@ -77,15 +77,15 @@ global.APIKeys = {
    
    //---------------------------------------------------------------------
 
-   global.sudo = ['447405935355']
+   global.sudo = ['254114035678']
    //-------------
-   global.owner = ['447405935355']
+   global.owner = ['254114035678']
 
    //---------------------------------------------------------------------
    
-   global.packname = 'ＡＬＩＥＮ' 
+   global.packname = 'Gabby' 
    //-------------
-   global.author = 'ＡＬＦＡ'
+   global.author = 'Gabby'
 
    //---------------------------------------------------------------------
 
@@ -193,17 +193,17 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 //-------------
 global.sp = '𒆜'
 //-------------
-global.devname = 'ＡＬＩＥＮ ＡＬＦＡ'
+global.devname = 'Gabby'
 //-------------
-global.devNum = ['447405935355']
+global.devNum = ['254114035678']
 //-------------
 global.greetings = 'Hey  👋🏻'
 //-------------
 global.listicon = '✩' 
 //-------------
-global.wm = 'ＡＬＩＥＮ ＡＬＦＡ' 
+global.wm = 'Gabby' 
 //-------------
-global.botname = 'ＡＬＩＥＮ ＡＬＦＡ'
+global.botname = 'Gabby'
 //-------------
 global.icon = '✩' 
 //-------------
@@ -217,7 +217,7 @@ global.insta = 'https://www.instagram.com/alienalfa/'
 //-------------
 global.linkname = '𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼'
 //-------------
-global.mainfooter = '𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼' 
+global.mainfooter = 'Gabby' 
 //-------------
 global.herokuapi = '' 
 //-------------
@@ -230,7 +230,7 @@ global.herokuapp = ''
 //============ Modz ============//
 
 //-------------
-global.welcomeactive =  true
+global.welcomeactive = false
 //-------------
 global.alivemess = false
 //-------------
@@ -256,7 +256,7 @@ global.mess = {
     errr: 'err',
     admin: 'ᴏɴʟʏ ᴀᴅᴍɪɴ',
     botAdmin: 'ɪ ᴡɪʟʟ ᴅᴏ ɪᴛ, ᴍᴀᴋᴇ ᴍᴇ ᴀɴ ᴀᴅᴍɪɴ!',
-    owner: 'ᴏᴡɴᴇʀ ᴄᴏᴍᴍᴀɴᴅ!',
+    owner: 'hii ni ya Gabby!',
     group: 'ᴛʜɪꜱ ɪꜱ ɴᴏᴛ ᴀ ɢʀᴏᴜᴘ ᴄʜᴀᴛ!',
     private: 'ᴛʜɪꜱ ɪꜱ ᴀ ɢʀᴏᴜᴘ, ᴜꜱᴇ ɪᴛ ɪɴ ᴘʀɪᴠᴀᴛᴇ ᴄʜᴀᴛ!',
     bot: '',
